@@ -1,4 +1,4 @@
-#Readme
+Readme
 
 This repository mantains exeutable versions of Crobots. 
 Currently (Jan 2025) running linux x64 e windows x64. 
