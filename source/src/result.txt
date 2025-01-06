@@ -1,0 +1,3501 @@
+
+Match      1:  cycles = 35445:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=1 ties=0  	   (4)      target.r: wins=0 ties=0  	
+
+Match      2:  cycles = 364005:
+  Survivors:
+   (4)      target.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=1 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match      3:  cycles = 58275:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=2 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match      4:  cycles = 50055:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=3 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match      5:  cycles = 62670:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=4 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match      6:  cycles = 76395:
+  Survivors:
+   (3)        rook.r: damage=% 23  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=5 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match      7:  cycles = 77595:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=6 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match      8:  cycles = 61605:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=7 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match      9:  cycles = 27570:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=8 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match     10:  cycles = 62745:
+  Survivors:
+   (3)        rook.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=9 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match     11:  cycles = 60465:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=10 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match     12:  cycles = 61050:
+  Survivors:
+   (3)        rook.r: damage=% 51  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=11 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match     13:  cycles = 62715:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=12 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match     14:  cycles = 60645:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=13 ties=0  	   (4)      target.r: wins=1 ties=0  	
+
+Match     15:  cycles = 283530:
+  Survivors:
+   (4)      target.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=13 ties=0  	   (4)      target.r: wins=2 ties=0  	
+
+Match     16:  cycles = 85080:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=14 ties=0  	   (4)      target.r: wins=2 ties=0  	
+
+Match     17:  cycles = 67245:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=15 ties=0  	   (4)      target.r: wins=2 ties=0  	
+
+Match     18:  cycles = 372900:
+  Survivors:
+   (4)      target.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=15 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     19:  cycles = 48120:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=16 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     20:  cycles = 79845:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=17 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     21:  cycles = 132465:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=18 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     22:  cycles = 35805:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=19 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     23:  cycles = 30705:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=20 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     24:  cycles = 68775:
+  Survivors:
+   (3)        rook.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=21 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     25:  cycles = 48225:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=22 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     26:  cycles = 37485:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=23 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     27:  cycles = 86160:
+  Survivors:
+   (3)        rook.r: damage=% 25  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=24 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     28:  cycles = 61740:
+  Survivors:
+   (3)        rook.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=25 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     29:  cycles = 50430:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=26 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     30:  cycles = 48120:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=27 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     31:  cycles = 79155:
+  Survivors:
+   (3)        rook.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=28 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     32:  cycles = 49605:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=29 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     33:  cycles = 58860:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=30 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     34:  cycles = 46755:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=31 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     35:  cycles = 51975:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=32 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     36:  cycles = 60210:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=33 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     37:  cycles = 61935:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=34 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     38:  cycles = 63000:
+  Survivors:
+   (3)        rook.r: damage=% 60  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=35 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     39:  cycles = 57630:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=36 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     40:  cycles = 42165:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=37 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     41:  cycles = 55260:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=38 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     42:  cycles = 81585:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=39 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     43:  cycles = 72720:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=40 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     44:  cycles = 44370:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=41 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     45:  cycles = 52365:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=42 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     46:  cycles = 65775:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=43 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     47:  cycles = 80775:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=44 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     48:  cycles = 62325:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=45 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     49:  cycles = 61770:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=46 ties=0  	   (4)      target.r: wins=3 ties=0  	
+
+Match     50:  cycles = 366975:
+  Survivors:
+   (4)      target.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=46 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     51:  cycles = 126300:
+  Survivors:
+   (3)        rook.r: damage=% 62  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=47 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     52:  cycles = 59940:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=48 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     53:  cycles = 45240:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=49 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     54:  cycles = 69945:
+  Survivors:
+   (3)        rook.r: damage=% 26  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=50 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     55:  cycles = 49800:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=51 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     56:  cycles = 59370:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=52 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     57:  cycles = 44910:
+  Survivors:
+   (3)        rook.r: damage=% 11  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=53 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     58:  cycles = 147000:
+  Survivors:
+   (3)        rook.r: damage=% 42  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=54 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     59:  cycles = 43470:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=55 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     60:  cycles = 63720:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=56 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     61:  cycles = 50310:
+  Survivors:
+   (3)        rook.r: damage=% 9  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=57 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     62:  cycles = 77910:
+  Survivors:
+   (3)        rook.r: damage=% 26  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=58 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     63:  cycles = 64680:
+  Survivors:
+   (3)        rook.r: damage=% 11  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=59 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     64:  cycles = 47040:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=60 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     65:  cycles = 44235:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=61 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     66:  cycles = 67905:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=62 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     67:  cycles = 80280:
+  Survivors:
+   (3)        rook.r: damage=% 27  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=63 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     68:  cycles = 43620:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=64 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     69:  cycles = 44835:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=65 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     70:  cycles = 97605:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=66 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     71:  cycles = 46740:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=67 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     72:  cycles = 29460:
+  Survivors:
+   (3)        rook.r: damage=% 76  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=68 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     73:  cycles = 86520:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=69 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     74:  cycles = 46815:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=70 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     75:  cycles = 83235:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=71 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     76:  cycles = 71580:
+  Survivors:
+   (3)        rook.r: damage=% 28  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=72 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     77:  cycles = 50370:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=73 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     78:  cycles = 39030:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=74 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     79:  cycles = 66645:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=75 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     80:  cycles = 72690:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=76 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     81:  cycles = 56715:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=77 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     82:  cycles = 72705:
+  Survivors:
+   (3)        rook.r: damage=% 19  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=78 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     83:  cycles = 81090:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=79 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     84:  cycles = 48810:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=80 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     85:  cycles = 60810:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=81 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     86:  cycles = 34935:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=82 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     87:  cycles = 83205:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=83 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     88:  cycles = 71745:
+  Survivors:
+   (3)        rook.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=84 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     89:  cycles = 87480:
+  Survivors:
+   (3)        rook.r: damage=% 37  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=85 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     90:  cycles = 63615:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=86 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     91:  cycles = 80610:
+  Survivors:
+   (3)        rook.r: damage=% 32  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=87 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     92:  cycles = 76275:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=88 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     93:  cycles = 52950:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=89 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     94:  cycles = 49920:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=0  	   (2)      rabbit.r: wins=0 ties=0  
+   (3)        rook.r: wins=90 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     95:  cycles = 500010:
+  Survivors:
+   (1)      rabbit.r: damage=% 48  	   (2)      rabbit.r: damage=% 93  
+
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=90 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     96:  cycles = 56460:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=91 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     97:  cycles = 39990:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=92 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     98:  cycles = 47190:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=93 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match     99:  cycles = 69465:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=94 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    100:  cycles = 24840:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=95 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    101:  cycles = 57615:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=96 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    102:  cycles = 72600:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=97 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    103:  cycles = 57330:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=98 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    104:  cycles = 77535:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=99 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    105:  cycles = 70470:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=100 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    106:  cycles = 45810:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=101 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    107:  cycles = 66885:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=102 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    108:  cycles = 48420:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=103 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    109:  cycles = 73695:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=104 ties=0  	   (4)      target.r: wins=4 ties=0  	
+
+Match    110:  cycles = 368610:
+  Survivors:
+   (4)      target.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=104 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    111:  cycles = 52725:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=105 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    112:  cycles = 67605:
+  Survivors:
+   (3)        rook.r: damage=% 26  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=106 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    113:  cycles = 21255:
+  Survivors:
+   (3)        rook.r: damage=% 54  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=107 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    114:  cycles = 47835:
+  Survivors:
+   (3)        rook.r: damage=% 11  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=108 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    115:  cycles = 44760:
+  Survivors:
+   (3)        rook.r: damage=% 11  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=109 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    116:  cycles = 39285:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=110 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    117:  cycles = 77190:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=111 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    118:  cycles = 58545:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=112 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    119:  cycles = 39735:
+  Survivors:
+   (3)        rook.r: damage=% 35  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=113 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    120:  cycles = 47580:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=114 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    121:  cycles = 52575:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=115 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    122:  cycles = 96975:
+  Survivors:
+   (3)        rook.r: damage=% 22  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=116 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    123:  cycles = 76095:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=117 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    124:  cycles = 53610:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=118 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    125:  cycles = 46020:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=119 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    126:  cycles = 51555:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=120 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    127:  cycles = 54570:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=121 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    128:  cycles = 56850:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=122 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    129:  cycles = 77640:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=123 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    130:  cycles = 61920:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=124 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    131:  cycles = 56565:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=125 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    132:  cycles = 111285:
+  Survivors:
+   (3)        rook.r: damage=% 22  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=126 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    133:  cycles = 82845:
+  Survivors:
+   (3)        rook.r: damage=% 22  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=127 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    134:  cycles = 65700:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=128 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    135:  cycles = 74730:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=129 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    136:  cycles = 60750:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=130 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    137:  cycles = 60960:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=131 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    138:  cycles = 55380:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=132 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    139:  cycles = 73890:
+  Survivors:
+   (3)        rook.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=133 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    140:  cycles = 69675:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=134 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    141:  cycles = 39135:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=135 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    142:  cycles = 51165:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=136 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    143:  cycles = 40305:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=137 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    144:  cycles = 110235:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=138 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    145:  cycles = 52665:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=139 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    146:  cycles = 45840:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=140 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    147:  cycles = 58620:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=141 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    148:  cycles = 74070:
+  Survivors:
+   (3)        rook.r: damage=% 25  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=142 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    149:  cycles = 47730:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=143 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    150:  cycles = 74595:
+  Survivors:
+   (3)        rook.r: damage=% 30  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=144 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    151:  cycles = 74175:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=145 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    152:  cycles = 89985:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=146 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    153:  cycles = 90900:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=147 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    154:  cycles = 122340:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=148 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    155:  cycles = 35490:
+  Survivors:
+   (3)        rook.r: damage=% 7  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=149 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    156:  cycles = 62085:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=150 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    157:  cycles = 65580:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=151 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    158:  cycles = 43710:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=152 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    159:  cycles = 43620:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=153 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    160:  cycles = 64860:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=154 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    161:  cycles = 51420:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=155 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    162:  cycles = 44880:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=156 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    163:  cycles = 55650:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=157 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    164:  cycles = 40035:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=158 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    165:  cycles = 74085:
+  Survivors:
+   (3)        rook.r: damage=% 70  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=159 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    166:  cycles = 28635:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=160 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    167:  cycles = 48435:
+  Survivors:
+   (3)        rook.r: damage=% 35  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=161 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    168:  cycles = 67125:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=162 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    169:  cycles = 85140:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=163 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    170:  cycles = 65985:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=164 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    171:  cycles = 67710:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=165 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    172:  cycles = 85455:
+  Survivors:
+   (3)        rook.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=166 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    173:  cycles = 51750:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=167 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    174:  cycles = 81735:
+  Survivors:
+   (3)        rook.r: damage=% 24  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=168 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    175:  cycles = 57855:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=169 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    176:  cycles = 52725:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=170 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    177:  cycles = 57540:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=171 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    178:  cycles = 55905:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=172 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    179:  cycles = 152070:
+  Survivors:
+   (3)        rook.r: damage=% 36  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=173 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    180:  cycles = 46665:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=174 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    181:  cycles = 61485:
+  Survivors:
+   (3)        rook.r: damage=% 11  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=175 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    182:  cycles = 49830:
+  Survivors:
+   (3)        rook.r: damage=% 11  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=176 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    183:  cycles = 43320:
+  Survivors:
+   (3)        rook.r: damage=% 9  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=177 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    184:  cycles = 62295:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=178 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    185:  cycles = 55590:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=179 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    186:  cycles = 63150:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=180 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    187:  cycles = 103170:
+  Survivors:
+   (3)        rook.r: damage=% 26  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=181 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    188:  cycles = 72255:
+  Survivors:
+   (3)        rook.r: damage=% 27  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=182 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    189:  cycles = 57390:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=183 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    190:  cycles = 76545:
+  Survivors:
+   (3)        rook.r: damage=% 27  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=184 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    191:  cycles = 55725:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=185 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    192:  cycles = 57330:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=186 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    193:  cycles = 55800:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=187 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    194:  cycles = 63345:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=188 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    195:  cycles = 48225:
+  Survivors:
+   (3)        rook.r: damage=% 9  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=189 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    196:  cycles = 65355:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=190 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    197:  cycles = 66405:
+  Survivors:
+   (3)        rook.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=191 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    198:  cycles = 49290:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=192 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    199:  cycles = 50595:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=193 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    200:  cycles = 72210:
+  Survivors:
+   (3)        rook.r: damage=% 23  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=194 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    201:  cycles = 36855:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=195 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    202:  cycles = 44085:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=196 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    203:  cycles = 33210:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=197 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    204:  cycles = 26520:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=198 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    205:  cycles = 47655:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=199 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    206:  cycles = 60345:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=200 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    207:  cycles = 51450:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=201 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    208:  cycles = 66960:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=202 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    209:  cycles = 41070:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=203 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    210:  cycles = 54600:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=204 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    211:  cycles = 60225:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=205 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    212:  cycles = 55665:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=206 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    213:  cycles = 58245:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=207 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    214:  cycles = 69405:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=208 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    215:  cycles = 70020:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=209 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    216:  cycles = 245010:
+  Survivors:
+   (3)        rook.r: damage=% 71  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=210 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    217:  cycles = 47130:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=211 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    218:  cycles = 51225:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=212 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    219:  cycles = 38580:
+  Survivors:
+   (3)        rook.r: damage=% 5  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=213 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    220:  cycles = 51060:
+  Survivors:
+   (3)        rook.r: damage=% 59  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=214 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    221:  cycles = 44700:
+  Survivors:
+   (3)        rook.r: damage=% 5  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=215 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    222:  cycles = 60870:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=216 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    223:  cycles = 54765:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=217 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    224:  cycles = 70725:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=218 ties=0  	   (4)      target.r: wins=5 ties=0  	
+
+Match    225:  cycles = 351225:
+  Survivors:
+   (4)      target.r: damage=% 75  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=218 ties=0  	   (4)      target.r: wins=6 ties=0  	
+
+Match    226:  cycles = 70470:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=219 ties=0  	   (4)      target.r: wins=6 ties=0  	
+
+Match    227:  cycles = 85230:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=220 ties=0  	   (4)      target.r: wins=6 ties=0  	
+
+Match    228:  cycles = 124755:
+  Survivors:
+   (3)        rook.r: damage=% 33  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=221 ties=0  	   (4)      target.r: wins=6 ties=0  	
+
+Match    229:  cycles = 54705:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=222 ties=0  	   (4)      target.r: wins=6 ties=0  	
+
+Match    230:  cycles = 64440:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=223 ties=0  	   (4)      target.r: wins=6 ties=0  	
+
+Match    231:  cycles = 75555:
+  Survivors:
+   (3)        rook.r: damage=% 29  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=224 ties=0  	   (4)      target.r: wins=6 ties=0  	
+
+Match    232:  cycles = 65595:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=225 ties=0  	   (4)      target.r: wins=6 ties=0  	
+
+Match    233:  cycles = 42900:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=226 ties=0  	   (4)      target.r: wins=6 ties=0  	
+
+Match    234:  cycles = 385695:
+  Survivors:
+   (4)      target.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=226 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    235:  cycles = 52830:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=227 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    236:  cycles = 37545:
+  Survivors:
+   (3)        rook.r: damage=% 9  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=228 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    237:  cycles = 41295:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=229 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    238:  cycles = 66660:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=230 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    239:  cycles = 64035:
+  Survivors:
+   (3)        rook.r: damage=% 19  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=231 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    240:  cycles = 63225:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=232 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    241:  cycles = 72615:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=233 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    242:  cycles = 51630:
+  Survivors:
+   (3)        rook.r: damage=% 48  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=234 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    243:  cycles = 66480:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=235 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    244:  cycles = 49860:
+  Survivors:
+   (3)        rook.r: damage=% 9  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=236 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    245:  cycles = 38265:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=237 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    246:  cycles = 43290:
+  Survivors:
+   (3)        rook.r: damage=% 36  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=238 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    247:  cycles = 245205:
+  Survivors:
+   (3)        rook.r: damage=% 68  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=239 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    248:  cycles = 51675:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=240 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    249:  cycles = 56865:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=241 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    250:  cycles = 71400:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=242 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    251:  cycles = 68550:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=243 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    252:  cycles = 87090:
+  Survivors:
+   (3)        rook.r: damage=% 30  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=244 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    253:  cycles = 97605:
+  Survivors:
+   (3)        rook.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=245 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    254:  cycles = 24720:
+  Survivors:
+   (3)        rook.r: damage=% 39  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=246 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    255:  cycles = 49620:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=247 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    256:  cycles = 45495:
+  Survivors:
+   (3)        rook.r: damage=% 9  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=248 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    257:  cycles = 57525:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=249 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    258:  cycles = 41640:
+  Survivors:
+   (3)        rook.r: damage=% 9  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=250 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    259:  cycles = 88155:
+  Survivors:
+   (3)        rook.r: damage=% 27  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=251 ties=0  	   (4)      target.r: wins=7 ties=0  	
+
+Match    260:  cycles = 369060:
+  Survivors:
+   (4)      target.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=251 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    261:  cycles = 19995:
+  Survivors:
+   (3)        rook.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=252 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    262:  cycles = 71565:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=253 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    263:  cycles = 49710:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=254 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    264:  cycles = 57300:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=255 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    265:  cycles = 66840:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=256 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    266:  cycles = 41865:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=257 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    267:  cycles = 66630:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=258 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    268:  cycles = 35145:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=259 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    269:  cycles = 58425:
+  Survivors:
+   (3)        rook.r: damage=% 9  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=260 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    270:  cycles = 47220:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=261 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    271:  cycles = 76500:
+  Survivors:
+   (3)        rook.r: damage=% 33  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=262 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    272:  cycles = 48435:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=263 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    273:  cycles = 57360:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=264 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    274:  cycles = 44415:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=265 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    275:  cycles = 64470:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=266 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    276:  cycles = 52995:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=267 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    277:  cycles = 32115:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=268 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    278:  cycles = 43170:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=269 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    279:  cycles = 67860:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=270 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    280:  cycles = 72975:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=271 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    281:  cycles = 73020:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=272 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    282:  cycles = 137415:
+  Survivors:
+   (3)        rook.r: damage=% 66  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=273 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    283:  cycles = 42330:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=274 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    284:  cycles = 42480:
+  Survivors:
+   (3)        rook.r: damage=% 27  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=275 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    285:  cycles = 63135:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=276 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    286:  cycles = 58020:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=277 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    287:  cycles = 53130:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=278 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    288:  cycles = 44580:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=279 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    289:  cycles = 40425:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=280 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    290:  cycles = 34650:
+  Survivors:
+   (3)        rook.r: damage=% 66  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=281 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    291:  cycles = 115215:
+  Survivors:
+   (3)        rook.r: damage=% 30  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=282 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    292:  cycles = 77010:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=283 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    293:  cycles = 58530:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=284 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    294:  cycles = 84945:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=285 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    295:  cycles = 47235:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=286 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    296:  cycles = 42255:
+  Survivors:
+   (3)        rook.r: damage=% 31  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=287 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    297:  cycles = 23040:
+  Survivors:
+   (3)        rook.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=288 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    298:  cycles = 41910:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=289 ties=0  	   (4)      target.r: wins=8 ties=0  	
+
+Match    299:  cycles = 369810:
+  Survivors:
+   (4)      target.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=289 ties=0  	   (4)      target.r: wins=9 ties=0  	
+
+Match    300:  cycles = 57675:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=290 ties=0  	   (4)      target.r: wins=9 ties=0  	
+
+Match    301:  cycles = 72195:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=291 ties=0  	   (4)      target.r: wins=9 ties=0  	
+
+Match    302:  cycles = 87585:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=292 ties=0  	   (4)      target.r: wins=9 ties=0  	
+
+Match    303:  cycles = 72030:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=293 ties=0  	   (4)      target.r: wins=9 ties=0  	
+
+Match    304:  cycles = 43620:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=294 ties=0  	   (4)      target.r: wins=9 ties=0  	
+
+Match    305:  cycles = 368925:
+  Survivors:
+   (4)      target.r: damage=% 35  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=294 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    306:  cycles = 43530:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=295 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    307:  cycles = 62700:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=296 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    308:  cycles = 65700:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=297 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    309:  cycles = 76860:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=298 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    310:  cycles = 42990:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=299 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    311:  cycles = 46890:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=300 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    312:  cycles = 58380:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=301 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    313:  cycles = 93195:
+  Survivors:
+   (3)        rook.r: damage=% 30  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=302 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    314:  cycles = 129990:
+  Survivors:
+   (3)        rook.r: damage=% 38  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=303 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    315:  cycles = 60045:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=304 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    316:  cycles = 133935:
+  Survivors:
+   (3)        rook.r: damage=% 32  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=305 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    317:  cycles = 351990:
+  Survivors:
+   (3)        rook.r: damage=% 90  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=306 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    318:  cycles = 65640:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=307 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    319:  cycles = 41940:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=308 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    320:  cycles = 86340:
+  Survivors:
+   (3)        rook.r: damage=% 26  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=309 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    321:  cycles = 50100:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=310 ties=0  	   (4)      target.r: wins=10 ties=0  	
+
+Match    322:  cycles = 313770:
+  Survivors:
+   (4)      target.r: damage=% 50  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=310 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    323:  cycles = 163350:
+  Survivors:
+   (3)        rook.r: damage=% 81  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=311 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    324:  cycles = 44820:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=312 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    325:  cycles = 48780:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=313 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    326:  cycles = 58200:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=314 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    327:  cycles = 51150:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=315 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    328:  cycles = 69750:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=316 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    329:  cycles = 40260:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=317 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    330:  cycles = 48015:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=318 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    331:  cycles = 55500:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=319 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    332:  cycles = 108090:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=320 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    333:  cycles = 67050:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=321 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    334:  cycles = 54000:
+  Survivors:
+   (3)        rook.r: damage=% 24  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=322 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    335:  cycles = 53565:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=323 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    336:  cycles = 48750:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=324 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    337:  cycles = 28710:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=325 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    338:  cycles = 71925:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=326 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    339:  cycles = 70380:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=327 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    340:  cycles = 56925:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=328 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    341:  cycles = 276345:
+  Survivors:
+   (3)        rook.r: damage=% 64  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=329 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    342:  cycles = 57900:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=330 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    343:  cycles = 40140:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=331 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    344:  cycles = 76785:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=332 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    345:  cycles = 60270:
+  Survivors:
+   (3)        rook.r: damage=% 45  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=333 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    346:  cycles = 52650:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=334 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    347:  cycles = 49095:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=335 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    348:  cycles = 47970:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=336 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    349:  cycles = 49770:
+  Survivors:
+   (3)        rook.r: damage=% 35  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=337 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    350:  cycles = 108360:
+  Survivors:
+   (3)        rook.r: damage=% 31  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=338 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    351:  cycles = 43905:
+  Survivors:
+   (3)        rook.r: damage=% 56  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=339 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    352:  cycles = 52740:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=340 ties=0  	   (4)      target.r: wins=11 ties=0  	
+
+Match    353:  cycles = 457485:
+  Survivors:
+   (4)      target.r: damage=% 75  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=340 ties=0  	   (4)      target.r: wins=12 ties=0  	
+
+Match    354:  cycles = 53010:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=341 ties=0  	   (4)      target.r: wins=12 ties=0  	
+
+Match    355:  cycles = 79695:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=342 ties=0  	   (4)      target.r: wins=12 ties=0  	
+
+Match    356:  cycles = 366375:
+  Survivors:
+   (4)      target.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=342 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    357:  cycles = 34800:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=343 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    358:  cycles = 57045:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=344 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    359:  cycles = 115755:
+  Survivors:
+   (3)        rook.r: damage=% 56  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=345 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    360:  cycles = 56910:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=346 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    361:  cycles = 57450:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=347 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    362:  cycles = 53310:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=348 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    363:  cycles = 44490:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=349 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    364:  cycles = 70500:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=350 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    365:  cycles = 39555:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=351 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    366:  cycles = 65040:
+  Survivors:
+   (3)        rook.r: damage=% 71  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=352 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    367:  cycles = 59220:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=353 ties=0  	   (4)      target.r: wins=13 ties=0  	
+
+Match    368:  cycles = 363810:
+  Survivors:
+   (4)      target.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=353 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    369:  cycles = 47820:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=354 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    370:  cycles = 62835:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=355 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    371:  cycles = 49635:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=356 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    372:  cycles = 77640:
+  Survivors:
+   (3)        rook.r: damage=% 22  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=357 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    373:  cycles = 34440:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=358 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    374:  cycles = 54105:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=359 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    375:  cycles = 54900:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=360 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    376:  cycles = 47040:
+  Survivors:
+   (3)        rook.r: damage=% 28  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=361 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    377:  cycles = 39090:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=362 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    378:  cycles = 45120:
+  Survivors:
+   (3)        rook.r: damage=% 9  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=363 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    379:  cycles = 60795:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=364 ties=0  	   (4)      target.r: wins=14 ties=0  	
+
+Match    380:  cycles = 369870:
+  Survivors:
+   (4)      target.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=364 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    381:  cycles = 76605:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=365 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    382:  cycles = 161325:
+  Survivors:
+   (3)        rook.r: damage=% 47  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=366 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    383:  cycles = 91200:
+  Survivors:
+   (3)        rook.r: damage=% 24  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=367 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    384:  cycles = 38265:
+  Survivors:
+   (3)        rook.r: damage=% 11  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=368 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    385:  cycles = 90945:
+  Survivors:
+   (3)        rook.r: damage=% 24  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=369 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    386:  cycles = 54825:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=370 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    387:  cycles = 43080:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=371 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    388:  cycles = 56580:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=372 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    389:  cycles = 99810:
+  Survivors:
+   (3)        rook.r: damage=% 24  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=373 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    390:  cycles = 52080:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=374 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    391:  cycles = 63885:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=375 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    392:  cycles = 58575:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=376 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    393:  cycles = 52515:
+  Survivors:
+   (3)        rook.r: damage=% 30  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=377 ties=0  	   (4)      target.r: wins=15 ties=0  	
+
+Match    394:  cycles = 399465:
+  Survivors:
+   (4)      target.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=377 ties=0  	   (4)      target.r: wins=16 ties=0  	
+
+Match    395:  cycles = 62475:
+  Survivors:
+   (3)        rook.r: damage=% 46  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=378 ties=0  	   (4)      target.r: wins=16 ties=0  	
+
+Match    396:  cycles = 65790:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=379 ties=0  	   (4)      target.r: wins=16 ties=0  	
+
+Match    397:  cycles = 77775:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=380 ties=0  	   (4)      target.r: wins=16 ties=0  	
+
+Match    398:  cycles = 53445:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=381 ties=0  	   (4)      target.r: wins=16 ties=0  	
+
+Match    399:  cycles = 366270:
+  Survivors:
+   (4)      target.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=381 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    400:  cycles = 63630:
+  Survivors:
+   (3)        rook.r: damage=% 22  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=382 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    401:  cycles = 58770:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=383 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    402:  cycles = 71130:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=384 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    403:  cycles = 43620:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=385 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    404:  cycles = 90240:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=386 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    405:  cycles = 54690:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=387 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    406:  cycles = 39990:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=388 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    407:  cycles = 72090:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=389 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    408:  cycles = 49470:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=390 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    409:  cycles = 67965:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=391 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    410:  cycles = 54945:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=392 ties=0  	   (4)      target.r: wins=17 ties=0  	
+
+Match    411:  cycles = 349290:
+  Survivors:
+   (4)      target.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=392 ties=0  	   (4)      target.r: wins=18 ties=0  	
+
+Match    412:  cycles = 161310:
+  Survivors:
+   (3)        rook.r: damage=% 70  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=393 ties=0  	   (4)      target.r: wins=18 ties=0  	
+
+Match    413:  cycles = 53160:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=394 ties=0  	   (4)      target.r: wins=18 ties=0  	
+
+Match    414:  cycles = 356535:
+  Survivors:
+   (4)      target.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=394 ties=0  	   (4)      target.r: wins=19 ties=0  	
+
+Match    415:  cycles = 55905:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=395 ties=0  	   (4)      target.r: wins=19 ties=0  	
+
+Match    416:  cycles = 75525:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=396 ties=0  	   (4)      target.r: wins=19 ties=0  	
+
+Match    417:  cycles = 45210:
+  Survivors:
+   (3)        rook.r: damage=% 4  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=397 ties=0  	   (4)      target.r: wins=19 ties=0  	
+
+Match    418:  cycles = 41340:
+  Survivors:
+   (3)        rook.r: damage=% 11  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=398 ties=0  	   (4)      target.r: wins=19 ties=0  	
+
+Match    419:  cycles = 68880:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=399 ties=0  	   (4)      target.r: wins=19 ties=0  	
+
+Match    420:  cycles = 365775:
+  Survivors:
+   (4)      target.r: damage=% 30  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=399 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    421:  cycles = 37005:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=400 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    422:  cycles = 77895:
+  Survivors:
+   (3)        rook.r: damage=% 28  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=401 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    423:  cycles = 46995:
+  Survivors:
+   (3)        rook.r: damage=% 7  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=402 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    424:  cycles = 84255:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=403 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    425:  cycles = 54435:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=404 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    426:  cycles = 40260:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=405 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    427:  cycles = 80100:
+  Survivors:
+   (3)        rook.r: damage=% 25  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=406 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    428:  cycles = 56895:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=407 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    429:  cycles = 56460:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=408 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    430:  cycles = 49140:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=409 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    431:  cycles = 32535:
+  Survivors:
+   (3)        rook.r: damage=% 3  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=410 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    432:  cycles = 48645:
+  Survivors:
+   (3)        rook.r: damage=% 11  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=411 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    433:  cycles = 63510:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=412 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    434:  cycles = 73515:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=413 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    435:  cycles = 45810:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=414 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    436:  cycles = 125925:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=415 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    437:  cycles = 56355:
+  Survivors:
+   (3)        rook.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=416 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    438:  cycles = 62145:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=417 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    439:  cycles = 53070:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=418 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    440:  cycles = 71895:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=419 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    441:  cycles = 65535:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=420 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    442:  cycles = 77490:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=421 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    443:  cycles = 73500:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=422 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    444:  cycles = 83565:
+  Survivors:
+   (3)        rook.r: damage=% 26  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=423 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    445:  cycles = 55470:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=424 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    446:  cycles = 77145:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=425 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    447:  cycles = 109710:
+  Survivors:
+   (3)        rook.r: damage=% 22  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=426 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    448:  cycles = 38625:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=427 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    449:  cycles = 57525:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=428 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    450:  cycles = 74970:
+  Survivors:
+   (3)        rook.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=429 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    451:  cycles = 38595:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=430 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    452:  cycles = 71715:
+  Survivors:
+   (3)        rook.r: damage=% 22  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=431 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    453:  cycles = 55395:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=432 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    454:  cycles = 64695:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=433 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    455:  cycles = 52710:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=434 ties=0  	   (4)      target.r: wins=20 ties=0  	
+
+Match    456:  cycles = 248280:
+  Survivors:
+   (4)      target.r: damage=% 15  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=434 ties=0  	   (4)      target.r: wins=21 ties=0  	
+
+Match    457:  cycles = 77085:
+  Survivors:
+   (3)        rook.r: damage=% 22  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=435 ties=0  	   (4)      target.r: wins=21 ties=0  	
+
+Match    458:  cycles = 88020:
+  Survivors:
+   (3)        rook.r: damage=% 18  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=436 ties=0  	   (4)      target.r: wins=21 ties=0  	
+
+Match    459:  cycles = 380955:
+  Survivors:
+   (4)      target.r: damage=% 30  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=436 ties=0  	   (4)      target.r: wins=22 ties=0  	
+
+Match    460:  cycles = 214365:
+  Survivors:
+   (4)      target.r: damage=% 0  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=436 ties=0  	   (4)      target.r: wins=23 ties=0  	
+
+Match    461:  cycles = 33570:
+  Survivors:
+   (3)        rook.r: damage=% 7  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=437 ties=0  	   (4)      target.r: wins=23 ties=0  	
+
+Match    462:  cycles = 117300:
+  Survivors:
+   (3)        rook.r: damage=% 26  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=438 ties=0  	   (4)      target.r: wins=23 ties=0  	
+
+Match    463:  cycles = 43995:
+  Survivors:
+   (3)        rook.r: damage=% 62  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=439 ties=0  	   (4)      target.r: wins=23 ties=0  	
+
+Match    464:  cycles = 49290:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=440 ties=0  	   (4)      target.r: wins=23 ties=0  	
+
+Match    465:  cycles = 46815:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=441 ties=0  	   (4)      target.r: wins=23 ties=0  	
+
+Match    466:  cycles = 330600:
+  Survivors:
+   (4)      target.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=441 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    467:  cycles = 60300:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=442 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    468:  cycles = 88710:
+  Survivors:
+   (3)        rook.r: damage=% 21  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=443 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    469:  cycles = 63390:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=444 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    470:  cycles = 61845:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=445 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    471:  cycles = 48795:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=446 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    472:  cycles = 45945:
+  Survivors:
+   (3)        rook.r: damage=% 43  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=447 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    473:  cycles = 44985:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=448 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    474:  cycles = 43425:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=449 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    475:  cycles = 48270:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=450 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    476:  cycles = 24825:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=451 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    477:  cycles = 28890:
+  Survivors:
+   (3)        rook.r: damage=% 36  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=452 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    478:  cycles = 78420:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=453 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    479:  cycles = 45855:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=454 ties=0  	   (4)      target.r: wins=24 ties=0  	
+
+Match    480:  cycles = 369780:
+  Survivors:
+   (4)      target.r: damage=% 20  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=454 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    481:  cycles = 75555:
+  Survivors:
+   (3)        rook.r: damage=% 17  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=455 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    482:  cycles = 39705:
+  Survivors:
+   (3)        rook.r: damage=% 2  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=456 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    483:  cycles = 42825:
+  Survivors:
+   (3)        rook.r: damage=% 8  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=457 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    484:  cycles = 53475:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=458 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    485:  cycles = 50310:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=459 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    486:  cycles = 56325:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=460 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    487:  cycles = 66075:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=461 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    488:  cycles = 56730:
+  Survivors:
+   (3)        rook.r: damage=% 13  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=462 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    489:  cycles = 71745:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=463 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    490:  cycles = 45240:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=464 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    491:  cycles = 60795:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=465 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    492:  cycles = 44415:
+  Survivors:
+   (3)        rook.r: damage=% 6  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=466 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    493:  cycles = 52785:
+  Survivors:
+   (3)        rook.r: damage=% 10  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=467 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    494:  cycles = 76605:
+  Survivors:
+   (3)        rook.r: damage=% 45  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=468 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    495:  cycles = 55455:
+  Survivors:
+   (3)        rook.r: damage=% 11  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=469 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    496:  cycles = 53880:
+  Survivors:
+   (3)        rook.r: damage=% 22  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=470 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    497:  cycles = 70335:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=471 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    498:  cycles = 68835:
+  Survivors:
+   (3)        rook.r: damage=% 12  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=472 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    499:  cycles = 60375:
+  Survivors:
+   (3)        rook.r: damage=% 14  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=473 ties=0  	   (4)      target.r: wins=25 ties=0  	
+
+Match    500:  cycles = 47235:
+  Survivors:
+   (3)        rook.r: damage=% 16  	
+  Cumulative score:
+   (1)      rabbit.r: wins=0 ties=1  	   (2)      rabbit.r: wins=0 ties=1  
+   (3)        rook.r: wins=474 ties=0  	   (4)      target.r: wins=25 ties=0  	
