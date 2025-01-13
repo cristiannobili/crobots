@@ -1,0 +1,11 @@
+Crobots PatchLevel1.3A 
+ - moves the instruction limit from 1000 to 2000.
+ - fixed zero degree bug
+ - fixed random start position bug
+ - add ingame speed control.
+
+Crobots PatchLevel 2.0 win32 version
+ - fixed internal crobots debugger
+ - added symbolic debugger (-s)
+ - added execution breakpoint (-s:funcname)
+ - better ingame speed control.
